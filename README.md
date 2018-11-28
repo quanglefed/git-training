@@ -1,2 +1,2 @@
 # git-training
-commit A
+commit B
